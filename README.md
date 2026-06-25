@@ -1,2 +1,2 @@
 # Graingerdemo
-This is my gitrepository to practice
+This is my git remote repository to practice
